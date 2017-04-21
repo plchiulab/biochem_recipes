@@ -24,4 +24,6 @@ Cell Culturing
 ==============
 
 This is a section about the materials that you need for the **cell culturing**. 
-* _`LB.rst`
+
+
+* .. _LB:
